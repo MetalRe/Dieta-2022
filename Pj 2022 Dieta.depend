@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1662075024 source:c:\users\rennê\desktop\c 2022.1\programação i\pj 2022 dieta\main.c
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<conio2.h>
+
+1664881315 source:c:\users\rennê\desktop\projeto dieta 2022\pj 2022 dieta\main.c
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
